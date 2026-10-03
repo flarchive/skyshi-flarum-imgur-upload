@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of skyshi/flarum-imgur-upload.** Not for installation: use [Packagist](https://packagist.org/packages/skyshi/flarum-imgur-upload) or the [upstream repository](https://github.com/SkyShi-wvb/imgur-upload).
 
-**0** versions archived · Latest: [`v0.0.2-beta`](https://github.com/flarchive/skyshi-flarum-imgur-upload/tree/archive/v0.0.2-beta) · License: `GPL-3.0` · Flarum: `>=0.1.0-beta.16 <0.1.0-beta.17`
+**2** versions archived · Latest: [`v0.0.2-beta`](https://github.com/flarchive/skyshi-flarum-imgur-upload/tree/archive/v0.0.2-beta) · License: `GPL-3.0` · Flarum: `>=0.1.0-beta.16 <0.1.0-beta.17`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1-beta` | 2021-05-22 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/skyshi-flarum-imgur-upload/tree/archive/v0.0.1-beta) |
+| `v0.0.2-beta` | 2021-05-22 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/skyshi-flarum-imgur-upload/tree/archive/v0.0.2-beta) |
 
 Catalog entry: [packages/skyshi-flarum-imgur-upload.json](https://github.com/flarchive/archive-index/blob/main/packages/skyshi-flarum-imgur-upload.json)
 
